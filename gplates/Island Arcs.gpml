@@ -146,56 +146,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:IslandArc>
-            <gpml:identity>GPlates-e2cbbb71-1f5c-45ba-8750-b44185668a1e</gpml:identity>
-            <gpml:revision>GPlates-5b4423fe-9b1c-4a96-9b65-5de413495b0b</gpml:revision>
-            <gml:name>Island Arc 950</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">950</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:reconstructionPlateId>
-                <gpml:ConstantValue>
-                    <gpml:value>700</gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:reconstructionPlateId>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">950</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
-            <gpml:outlineOf>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Polygon>
-                            <gml:exterior>
-                                <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">17.356558476061419 53.944851264305498 17.919007718586823 53.285718077633106 3.3499539391588438 36.553374207226867 2.7694147196832826 37.130595404801007 17.356558476061419 53.944851264305498 </gml:posList>
-                                </gml:LinearRing>
-                            </gml:exterior>
-                        </gml:Polygon>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:outlineOf>
-        </gpml:IslandArc>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:IslandArc>
             <gpml:identity>GPlates-c16e79bd-038a-452e-9e29-44dba4c39458</gpml:identity>
-            <gpml:revision>GPlates-c666e45a-4fe4-4515-8e98-b1e64eedf4d7</gpml:revision>
+            <gpml:revision>GPlates-45db4640-efa2-4f0d-8262-ec2020803a59</gpml:revision>
             <gml:name>Island Arc 950</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -206,7 +158,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -229,7 +181,7 @@
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-6.5545648177647511 10.891994229693754 -2.1033847663813106 -4.775341122750639 -0.99539326151268037 -4.448283792732127 -4.5006084858744115 8.4870066072223391 -6.5545648177647511 10.891994229693754 </gml:posList>
+                                    <gml:posList gml:dimension="2">-6.5545648177647511 10.891994229693751 -2.1033847663813106 -4.7753411227506408 -0.99539326151268037 -4.4482837927321262 -4.5006084858744115 8.4870066072223391 -6.5545648177647511 10.891994229693751 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -291,7 +243,7 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-3c07124b-cf85-4d58-94ef-8998d9e56ad9</gpml:identity>
-            <gpml:revision>GPlates-3a54e84c-67b9-4bc9-b807-a366c63db5ea</gpml:revision>
+            <gpml:revision>GPlates-91ddcd66-bd28-4514-b24f-22df1c9b3ad4</gpml:revision>
             <gml:name>Island Arc 950</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -309,7 +261,7 @@
             </gml:validTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>100</gpml:value>
+                    <gpml:value>500</gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
@@ -387,7 +339,7 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-4ffb7c5f-aea9-4d76-81f3-7e21a8e50431</gpml:identity>
-            <gpml:revision>GPlates-5cb6f880-8cd5-4620-8eaa-1c23503d57e2</gpml:revision>
+            <gpml:revision>GPlates-655ce21e-c9af-481e-a85d-59187eb5b05b</gpml:revision>
             <gml:name>Island Arc 900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -398,7 +350,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -435,7 +387,7 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-e6c29239-fcfb-4ec9-9f66-8e15879d6d58</gpml:identity>
-            <gpml:revision>GPlates-b7693610-4a4a-49d3-881e-6d516bdd299d</gpml:revision>
+            <gpml:revision>GPlates-64b4f07b-2502-432a-bfc7-2bf545ee50b8</gpml:revision>
             <gml:name>Island Arc 900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -446,7 +398,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -483,7 +435,7 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-b030b0c6-1258-4084-8966-40dbb4cd3f4e</gpml:identity>
-            <gpml:revision>GPlates-6e84408f-1fe1-42e9-8055-66bac203d37e</gpml:revision>
+            <gpml:revision>GPlates-a665cdef-a144-45b5-bd6a-4ef363d0cc88</gpml:revision>
             <gml:name>Island Arc 850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -494,16 +446,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>700</gpml:value>
@@ -511,13 +458,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">11.181889809264003 -26.103398750126317 12.144208458206521 -25.020211105764027 9.2946907940552244 -22.265316304968927 8.2327750479154638 -22.013410516597062 8.6016065087125568 -20.426257838052472 3.4142212841731117 -14.901582105290407 0.12091370117364499 -7.1721375774278275 -1.1554992279376497 -7.529386833684879 2.1905279560552815 -15.712526702670001 7.7271393194836726 -22.486151228322893 11.181889809264003 -26.103398750126317 </gml:posList>
+                                    <gml:posList gml:dimension="2">11.181889809264003 -26.103398750126317 12.144208458206521 -25.020211105764027 9.2946907940552244 -22.26531630496893 8.2327750479154638 -22.013410516597062 8.6016065087125568 -20.426257838052472 3.4142212841731117 -14.901582105290407 0.12091370117364499 -7.1721375774278275 -1.1554992279376497 -7.5293868336848826 2.1905279560552815 -15.712526702670001 7.7271393194836726 -22.486151228322893 11.181889809264003 -26.103398750126317 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -531,7 +483,7 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-95d8c3da-f07b-425c-97b8-ffaf9f5782df</gpml:identity>
-            <gpml:revision>GPlates-75f8e759-1e75-4f48-b149-06452eadc2b4</gpml:revision>
+            <gpml:revision>GPlates-a0b181b8-4b91-4ee1-8a4a-628f2dec2971</gpml:revision>
             <gml:name>Island Arc 850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -542,16 +494,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>701</gpml:value>
@@ -559,13 +506,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">22.167663317732156 96.081872630084348 22.478008828281062 97.406225566763254 19.218943839020557 97.822092653958606 15.222702787505016 96.363800133676506 12.567231940193428 94.307727703287284 13.041058813386774 93.561338234850041 15.474861877045823 95.627050346515148 18.620649216426365 96.203695177594284 19.114018811437283 97.250437379325874 19.63624562549025 96.338281605816988 22.167663317732156 96.081872630084348 </gml:posList>
+                                    <gml:posList gml:dimension="2">22.167663317732156 96.081872630084348 22.478008828281062 97.406225566763254 19.218943839020557 97.822092653958606 15.222702787505016 96.363800133676506 12.567231940193428 94.307727703287284 13.041058813386774 93.561338234850041 15.474861877045823 95.627050346515162 18.620649216426369 96.203695177594284 19.114018811437283 97.250437379325888 19.63624562549025 96.338281605816988 22.167663317732156 96.081872630084348 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -595,11 +547,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>400</gpml:value>
@@ -607,13 +554,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">64.485785819429395 -26.926693873481835 65.415087968770209 -30.771524178016385 59.698972664552969 -34.075022022122006 50.439909353007707 -34.447328520029394 44.329494296349431 -32.017399663223749 44.602886201762566 -30.957021857137896 50.615383732652688 -33.004558340328543 59.481197116462269 -31.990934238133235 64.485785819429395 -26.926693873481835 </gml:posList>
+                                    <gml:posList gml:dimension="2">64.485785819429395 -26.926693873481835 65.415087968770209 -30.771524178016385 59.698972664552969 -34.075022022121999 50.439909353007714 -34.447328520029394 44.329494296349431 -32.017399663223749 44.602886201762566 -30.957021857137896 50.615383732652688 -33.004558340328543 59.481197116462269 -31.990934238133235 64.485785819429395 -26.926693873481835 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -643,11 +595,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>400</gpml:value>
@@ -655,13 +602,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">61.995775189418133 54.354666723989553 55.015540387030462 79.956387235478999 56.562381808396403 80.357203827067067 62.579686777398678 56.209071703888647 61.995775189418133 54.354666723989553 </gml:posList>
+                                    <gml:posList gml:dimension="2">61.995775189418133 54.354666723989546 55.015540387030462 79.956387235478999 56.562381808396403 80.357203827067067 62.579686777398678 56.209071703888661 61.995775189418133 54.354666723989546 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -675,7 +627,103 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-1da822e6-11f3-4d1f-94f2-b14b64cb4965</gpml:identity>
-            <gpml:revision>GPlates-5e2c7daf-e03c-41b3-ab11-8594435c491a</gpml:revision>
+            <gpml:revision>GPlates-a193fad8-ba46-49ae-adbb-bdb3fe521363</gpml:revision>
+            <gml:name>Island Arc 800</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>100</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">32.786395154315649 -104.46207500037023 33.091335328072091 -103.02753510673145 47.151349602615618 -94.870615454540825 55.396171145512298 -77.033980486793325 55.976928233076151 -79.427254504814613 47.895322489240584 -96.497921699315867 32.786395154315649 -104.46207500037023 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-7bdd66f9-bff9-44d2-b23c-129995492c5b</gpml:identity>
+            <gpml:revision>GPlates-2c432cf8-5458-426a-a170-3ed9156811fb</gpml:revision>
+            <gml:name>Island Arc 800</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>100</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">35.39359155188054 -2.0847524918854026 35.140883532766139 -3.118411749736397 25.082655481439499 -7.2728605170989589 23.653183628051288 -6.5863178944615708 22.662492080254996 -8.0020386175662228 18.853987454202311 -6.494394792904794 1.5907350740301709 2.7812326837674775 -3.0906979284453446 7.5272609075708967 -2.2610729297100756 7.8983848627974123 2.0500068427435583 3.3187835510693295 19.482330866808486 -5.7925392730273746 24.267568072127112 -5.8942949591169995 35.39359155188054 -2.0847524918854026 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-af0d483d-67f0-4619-8317-db1fcde11080</gpml:identity>
+            <gpml:revision>GPlates-a093b9cd-c808-462a-91f1-fb21442c7bfe</gpml:revision>
             <gml:name>Island Arc 800</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -693,7 +741,343 @@
             </gml:validTime>
             <gpml:geometryImportTime>
                 <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">799.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>800</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">11.181889809264007 -26.103398750126317 12.144208458206521 -25.020211105764023 9.2946907940552208 -22.265316304968927 8.2327750479154655 -22.013410516597062 8.6016065087125568 -20.426257838052464 6.1010175390133634 -17.913341940850053 5.0445983903639009 -19.254941711182266 7.7271393194836691 -22.486151228322893 11.181889809264007 -26.103398750126317 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-623d57f9-a309-4184-9125-edad179644ad</gpml:identity>
+            <gpml:revision>GPlates-09c63a2e-66b4-4a12-89ce-34573a4fa2a2</gpml:revision>
+            <gml:name>Island Arc 800</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">798.49620000000004</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>400</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">42.645563145937707 159.59793323709312 42.11357978519149 156.33007525699915 26.477828108501466 145.52249604145078 6.1038071589242877 128.40266981219716 -16.555697532297639 108.51883741890332 -17.730973340985059 109.82014622390543 5.5514502076699603 129.81314680121926 25.53097564318583 146.75388963404521 42.645563145937707 159.59793323709312 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-32738d2a-f5b8-4024-81a9-a0b34a29b17f</gpml:identity>
+            <gpml:revision>GPlates-784bb409-797c-4128-945b-c6898b38635e</gpml:revision>
+            <gml:name>Island Arc 800</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">798.49620000000004</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>900</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">11.735106735221191 -59.170894927691933 28.412553836488357 -61.733839516219753 34.348055653162689 -67.061286401170136 33.847821824004036 -68.639793522333036 28.205294372230313 -62.523931173270192 10.548459337185541 -60.436037108657452 11.735106735221191 -59.170894927691933 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-30f3d1fd-9959-4d88-8bd2-5f628ab4a4a1</gpml:identity>
+            <gpml:revision>GPlates-4be8eae3-9553-4a0d-84b4-002f8c5d6b62</gpml:revision>
+            <gml:name>Island Arc 950</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">950</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>700</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">950</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">17.356558476061387 53.944851264305491 17.919007718586819 53.285718077633099 10.928895309721934 44.969770093478466 10.433204189004327 45.639870358770203 17.356558476061387 53.944851264305491 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-7004123b-dd11-4a82-88a7-111522d72f34</gpml:identity>
+            <gpml:revision>GPlates-8cc6b112-9dd2-4ff1-9807-b4e547c00c5d</gpml:revision>
+            <gml:name>Island Arc 950</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">950</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
                     <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>800</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">-0.47886349173875359 31.404126937937061 1.1787906741932257 31.414845276551738 3.3917582873046923 36.510456390285718 10.187608271534717 43.945825584574294 9.6568774309035614 44.738836298150744 2.8088672179846648 37.113658142777375 -0.47886349173875359 31.404126937937061 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-fda221de-bcb1-443b-8609-689b2e6a7e66</gpml:identity>
+            <gpml:revision>GPlates-8221512c-d5ee-4292-b386-150d2649a87f</gpml:revision>
+            <gml:name>Island Arc 750</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>700</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">57.838978013293264 -26.046023395637967 48.893360403787888 -30.425242163596302 37.743682206314581 -37.302984834881265 37.430197993545626 -36.286016978365176 48.244940267063278 -27.719503075281924 56.486881834867326 -20.736312680283234 57.838978013293264 -26.046023395637967 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-87cc13e3-d056-40c8-a5b7-5a95456515fa</gpml:identity>
+            <gpml:revision>GPlates-ca8f33d3-6268-4959-947e-d8efe51e514b</gpml:revision>
+            <gml:name>Island Arc 750</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>700</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">58.903105407398748 55.758547087917712 54.819498598624769 64.040608735201289 51.099990215587248 68.860946183618111 50.434994801785891 67.36921906110986 53.944857540404243 62.1978162244529 57.090128715424477 51.912290346941873 58.903105407398748 55.758547087917712 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-7e6cf904-9b3e-472c-8a8d-74c201d50ead</gpml:identity>
+            <gpml:revision>GPlates-d568cad7-2575-4274-baa4-958cca904d5e</gpml:revision>
+            <gml:name>Island Arc 750</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">749.99000000000001</gml:timePosition>
                 </gml:TimeInstant>
             </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
@@ -709,7 +1093,55 @@
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">32.786395154315649 -104.46207500037023 33.091335328072091 -103.02753510673145 47.151349602615618 -94.870615454540825 55.396171145512298 -77.033980486793325 55.976928233076151 -79.427254504814613 47.895322489240577 -96.497921699315867 32.786395154315649 -104.46207500037023 </gml:posList>
+                                    <gml:posList gml:dimension="2">-2.7031434964577863 8.3646879967646797 -3.437639466150086 7.8735778857518017 -6.242035335111896 10.977922414314992 -10.72712058193523 21.593439496388228 -10.008512782042024 21.731190169715319 -5.5662259148961795 11.314207134622283 -2.7031434964577863 8.3646879967646797 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:IslandArc>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:IslandArc>
+            <gpml:identity>GPlates-c9b99d79-7001-419a-8170-efbb6a96cb7e</gpml:identity>
+            <gpml:revision>GPlates-a4eb51cf-a464-43b7-b504-87e6365ce17f</gpml:revision>
+            <gml:name>Island Arc 800</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>400</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">41.027359846806029 -120.76523742796581 39.962787224369805 -115.11329543092486 40.148735374669293 -119.837866836877 37.209172503645149 -125.83762270141655 37.514642705811561 -127.37812877048461 41.027359846806029 -120.76523742796581 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
