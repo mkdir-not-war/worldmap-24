@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:ContinentalRift>
+            <gpml:identity>GPlates-0a8f7438-2345-4604-bdd0-0c5518779d1a</gpml:identity>
+            <gpml:revision>GPlates-e883e707-4061-48ae-8ae3-976aba79f14d</gpml:revision>
+            <gml:name>Microcontinent 1</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">900</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">900</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>701</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">17.295733922821839 65.998258436847607 20.421007208851343 65.263012117188367 23.795250690704904 68.359593473461459 26.730036683539034 67.301216587502864 33.115684535168832 75.927899839688095 30.444717157568576 81.273705542591813 23.445244779882565 83.538377114133539 20.61466648365392 87.988986356517884 20.54486524098548 91.492193211590475 20.92549194157613 94.008640562725517 19.019646727994804 97.354684700323062 15.628612885787392 89.113192409585494 13.472585971082172 81.953076236458259 10.946442386720639 76.849609966898882 4.3425447987321402 76.961763456840131 -1.4815959286338714 83.685088561650161 -5.6651802755625029 84.917025713651782 -11.925693488246123 77.025097658785711 -12.630910575020085 74.992821715513074 -7.4535615227833816 69.860794689561274 -1.5635852263263128 68.023497983472652 6.1227451724554021 70.964328146317513 14.515197246921574 69.479990225044958 17.295733922821839 65.998258436847607 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:ContinentalRift>
+    </gml:featureMember>
+</gpml:FeatureCollection>
