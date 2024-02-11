@@ -3,7 +3,7 @@
     <gml:featureMember>
         <gpml:OrogenicBelt>
             <gpml:identity>GPlates-555ea312-6ee8-4a52-a2a1-6dc44891b77b</gpml:identity>
-            <gpml:revision>GPlates-52762e95-5bd3-464c-b7a3-98d7ceae4725</gpml:revision>
+            <gpml:revision>GPlates-f3692b3e-f75c-4f3a-a6c7-8ec84cfee138</gpml:revision>
             <gml:name>Andean 1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -14,7 +14,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">500</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -147,7 +147,7 @@
     <gml:featureMember>
         <gpml:OrogenicBelt>
             <gpml:identity>GPlates-0e8f0348-f593-42db-9b2b-d152e4c7d1a3</gpml:identity>
-            <gpml:revision>GPlates-255404eb-8f2d-456e-a2d9-b0bd0fdc694b</gpml:revision>
+            <gpml:revision>GPlates-9bd505cb-b4b0-4d7f-923e-edfde3d23ad0</gpml:revision>
             <gml:name>Andean 1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -158,7 +158,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">500</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -1731,7 +1731,7 @@
     <gml:featureMember>
         <gpml:OrogenicBelt>
             <gpml:identity>GPlates-e9beeb07-c90c-4feb-b2c5-40b491ab0659</gpml:identity>
-            <gpml:revision>GPlates-86a56808-fa00-48e3-a08c-58bc5e3decd4</gpml:revision>
+            <gpml:revision>GPlates-8080ed57-e331-4e8d-9865-ce520bdde5ec</gpml:revision>
             <gml:name>Andean 950</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1742,7 +1742,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">500</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -2355,7 +2355,7 @@
     <gml:featureMember>
         <gpml:OrogenicBelt>
             <gpml:identity>GPlates-1a76934b-d907-48c2-9e96-a82e2cbd6887</gpml:identity>
-            <gpml:revision>GPlates-a2c79f58-26af-440b-8491-2a84400a58ec</gpml:revision>
+            <gpml:revision>GPlates-3cce4060-ebd7-4cc6-9ba6-72f5d1ef4378</gpml:revision>
             <gml:name>Andean 950</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -2366,7 +2366,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">500</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
